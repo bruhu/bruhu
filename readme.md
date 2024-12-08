@@ -12,7 +12,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 A Data Analyst and Software Developer based in Berlin 」
+    「 Data Analyst and Software Developer based in Berlin 」
     <br>
     <br>
   </samp>
@@ -25,7 +25,7 @@
 </p>
 <br />
 
-## My Stack
+## Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white)

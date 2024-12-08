@@ -3,7 +3,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There!, I'm
                 <b><a>Bru</a></b>
         </samp>
 </h3>
@@ -12,7 +12,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Data Analyst and Software Developer based in Berlin 」
+    「 A Data Analyst and Software Developer based in Berlin 」
     <br>
     <br>
   </samp>

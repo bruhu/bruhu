@@ -12,7 +12,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Data Analyst and Software Developer in Berlin 」
+    「 Data Analyst and Software Developer based in Berlin 」
     <br>
     <br>
   </samp>
@@ -28,13 +28,11 @@
 <!-- About Section -->
  # About me
  
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+<p> 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: bruhu.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/bruhu/bruhu/issues)
+ 📧 &emsp; <a href="mailto:brugera.herrero@gmail.com">Reach out</a><br/><br/>
+ 💬 &emsp; <a href="https://github.com/bruhu/bruhu/issues">Ask me anything</a>
 
 </p>
 
@@ -57,12 +55,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=bruhu&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bruhu/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=bruhu&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bruhu/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=bruhu&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bruhu/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=bruhu&repo=bruhu&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/bruhu/bruhu)
 
 <p align="left">
   <a href="https://github.com/bruhu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>

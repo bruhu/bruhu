@@ -1,25 +1,22 @@
-
-<!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
-
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I'm
-                <b><a>Bru</a></b>
-        </samp>
+  <samp>&gt; Hey there! I'm <b>Bru</b></samp>
 </h3>
-<p align="center"> 
-  <samp>
-    「 Data Analyst and Software Developer based in Berlin 」
-    <br>
-          <br>          
-  </samp>
+<p align="center">
+  <samp>「 Data Analyst and Software Developer based in Berlin 」</samp>
 </p>
 
+
 <p align="center">
- <a href="https://linkedin.com/in/brugera" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brugera"/>
- </a>
+  <a href="https://github.com/bruhu?tab=repositories" target="_blank" style="text-decoration: none;">
+    <img alt="All Repositories" title="Github Repositories" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp; <!-- Adds space between the badges -->  
+  <a href="https://linkedin.com/in/brugera" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
 
 ## Stack
 <p align="center">
@@ -64,33 +61,31 @@
 <br/>
 <br/>
 -->
-
-<p align="center">
-  <a href="https://github.com/bruhu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
 <!-- GitHub Activity + Streak Count -->
+<!-- 
 <p align="center">
   <a href="https://github.com/bruhu">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruhu&theme=radical&border=7F3FBF&background=0D1117" alt="Bru's GitHub streak"/>
   </a>
 </p>
-
+-->
 <!-- Github Contributions -->
+<!-- 
 <p align="center">
   <a href="https://github.com/bruhu">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruhu&theme=radical" alt="Bru's GitHub Contribution"/>
   </a>
 </p>
-
+-->
 <!-- Stats and Most Used Languages -->
 <a>
   <a href="https://github.com/bruhu"><img alt="Bru's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bruhu&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=Stats&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/bruhu"><img alt="Bru's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bruhu&langs_count=8&hide_progress=true&custom_title=Languages&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  height="192px" width="49.5%"/></a>
 </a>
+<br/>
+<br/>
+<br/>
+
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/bruhu">

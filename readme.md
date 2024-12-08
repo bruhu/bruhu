@@ -7,14 +7,11 @@
                 <b><a>Bru</a></b>
         </samp>
 </h3>
-
-
 <p align="center"> 
   <samp>
-    <br>
     「 Data Analyst and Software Developer based in Berlin 」
     <br>
-    <br>
+          <br>          
   </samp>
 </p>
 
@@ -23,7 +20,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="brugera"/>
  </a>
 </p>
-<br />
 
 ## Stack
 <p align="center">
@@ -53,7 +49,7 @@
 <br />
 
 
-<!-- About Section -->
+<!-- About Section 
  # About me
  
 <p> 
@@ -67,7 +63,7 @@
 <br/>
 <br/>
 <br/>
-
+-->
 
 <p align="left">
   <a href="https://github.com/bruhu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>

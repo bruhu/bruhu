@@ -25,22 +25,7 @@
 </p>
 <br />
 
-<!-- About Section -->
- # About me
- 
-<p> 
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; <a href="mailto:brugera.herrero@gmail.com">Reach out</a><br/><br/>
- 💬 &emsp; <a href="https://github.com/bruhu/bruhu/issues">Ask me anything</a>
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
-## What I work with
+## My Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white)
@@ -65,6 +50,23 @@
 
 
 <br/>
+
+
+<!-- About Section -->
+ # About me
+ 
+<p> 
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; <a href="mailto:brugera.herrero@gmail.com">Reach out</a><br/><br/>
+ 💬 &emsp; <a href="https://github.com/bruhu/bruhu/issues">Ask me anything</a>
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
 
 <p align="left">
   <a href="https://github.com/bruhu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>

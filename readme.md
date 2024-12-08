@@ -65,7 +65,7 @@
 <br/>
 -->
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/bruhu?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
@@ -73,21 +73,21 @@
 <hr/>
 <br/>
 <!-- GitHub Activity + Streak Count -->
-<p style="text-align: center;">
+<p align="center">
   <a href="https://github.com/bruhu">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruhu&theme=radical&border=7F3FBF&background=0D1117" alt="Bru's GitHub streak"/>
   </a>
 </p>
 
 <!-- Github Contributions -->
-<p style="text-align: center;">
+<p align="center">
   <a href="https://github.com/bruhu">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruhu&theme=radical" alt="Bru's GitHub Contribution"/>
   </a>
 </p>
 
 <!-- Stats and Most Used Languages -->
-<p style="text-align: center;">
+<p align="center">
   <a href="https://github.com/bruhu">
     <img alt="Bru's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bruhu&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&hide=issues&custom_title=Stats&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
     <img alt="Bru's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bruhu&langs_count=8&hide_progress=true&custom_title=Top Languages&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
@@ -95,7 +95,7 @@
 </p>
 
 <!-- Activity Graph -->
-<p style="text-align: center;">
+<p align="center">
   <a href="https://github.com/bruhu">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=bruhu&custom_title=Bru's Activity&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&area_color=0D1117&title_color=F85D7F&border_color=7F3FBF" alt="Bru's GitHub Activity Graph"/>
   </a>

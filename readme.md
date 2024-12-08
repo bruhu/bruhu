@@ -72,29 +72,36 @@
 <br/>
 <hr/>
 <br/>
+
+
 <!-- GitHub Activity + Streak Count -->
 <p align="center">
   <a href="https://github.com/bruhu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruhu&theme=radical&border=7F3FBF&background=0D1117" alt="Bru's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bruhu&theme=monokai&border=F92672&background=272822" alt="Bru's GitHub streak"/>
   </a>
 </p>
+
 <!-- Github Contributions -->
 <p align="center">
   <a href="https://github.com/bruhu">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruhu&theme=radical" alt="Bru's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruhu&theme=monokai" alt="Bru's GitHub Contribution"/>
   </a>
 </p>
+
 <!-- Stats and Most Used Languages -->
 <a> 
-    <a href="https://github.com/bruhu"><img alt="Bru's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bruhu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/bruhu"><img alt="Bru's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bruhu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/bruhu">
+      <img alt="Bru's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bruhu&show_icons=true&count_private=true&theme=monokai&border_color=F92672&bg_color=272822&title_color=66D9EF&icon_color=F8F8F2" height="192px" width="49.5%"/>
+    </a>
+    <a href="https://github.com/bruhu">
+      <img alt="Bru's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bruhu&langs_count=8&layout=compact&theme=monokai&border_color=F92672&bg_color=272822&title_color=66D9EF&icon_color=F8F8F2" height="192px" width="49.5%"/>
+    </a>
   <br/>
 </a>
+
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/bruhu">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bruhu&custom_title=Bru's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&area_color=0D1117&title_color=F85D7F&border_color=7F3FBF" alt="Bru's GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bruhu&custom_title=Bru's%20GitHub%20Activity%20Graph&bg_color=272822&color=F8F8F2&line=66D9EF&point=F92672&area_color=272822&title_color=66D9EF&border_color=F92672" alt="Bru's GitHub Activity Graph"/>
   </a>
 </p>
-
-
